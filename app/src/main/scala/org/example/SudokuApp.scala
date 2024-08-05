@@ -1,3 +1,5 @@
+package sudoku
+
 import javafx.application.Application
 import javafx.scene.Scene
 import javafx.scene.control.Label
@@ -12,7 +14,3 @@ class SudokuApp extends Application:
     val scene = Scene(StackPane(l), 640, 480)
     stage.setScene(scene)
     stage.show()
-
-object SudokuApp:
-  def main(args: Array[String]): Unit =
-    Application.launch(classOf[SudokuApp])

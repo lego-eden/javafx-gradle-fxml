@@ -41,7 +41,7 @@ javafx {
 }
 
 application {
-    mainClass = 'SudokuApp'
+    mainClass = 'sudoku.SudokuApp'
 }
 
 // mainClassName = 'SudokuApp'
