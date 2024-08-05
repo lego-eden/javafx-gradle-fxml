@@ -1878,3 +1878,7 @@ Aug 05, 2024 7:46:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellat
 WARNING: Unmatched cancel notification for request id 4920
 2024.08.05 19:46:39 INFO  compiling app (1 scala source)[0m
 2024.08.05 19:46:39 INFO  time: compiled app in 0.19s[0m
+Aug 05, 2024 7:48:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4976
+Aug 05, 2024 7:48:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4989
